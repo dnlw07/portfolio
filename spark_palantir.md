@@ -1,7 +1,7 @@
 
 
 ## Palantir Objects
-- **Ontology** - a semantic layer that sits on top of multiple datasets (Data Mart?)
+- **Ontology** - a semantic layer that sits on top of multiple datasets
 - **Object type** - dataset (Employee table)
 - **Object set** - filtered sample of the data in a dataset (SQL query)
 - **Object** - row in a dataset (single row with an employee name and ID)
